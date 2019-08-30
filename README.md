@@ -1,6 +1,8 @@
 # Sistema_Odontologico_AspdotNet_MVC5_CSharp
 Sistema_Odontologico_AspdotNet_MVC5_CSharp
 
+Observações Gerais: Os códigos fontes deste projeto foram baseados nos códigos contidos no site http://www.macoratti.net.
+
 1. Leia o arquivo LICENSE;
 
 2. Certifique-se que estejam instalados o 'Visual Studio 2015' ou Superior e o 'SQL Server 2008' ou Superior;
